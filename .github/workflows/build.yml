@@ -4,8 +4,8 @@ on:
   push:
     branches: [main]
 
-defaults:
-  build-and-push-docker-image:
+jobs:
+  build-and-push-image
     name: Build Docker image and push to repositories
     runs-on: ubuntu-latest
 
