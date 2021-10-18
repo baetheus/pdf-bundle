@@ -7,7 +7,7 @@ on:
 jobs:
   build-and-push-image:
     env:
-      IMAGE: baetheus/pdf-bundle
+      IMAGE: ghcr.io/baetheus/pdf-bundle
     runs-on: ubuntu-latest
 
     steps:
