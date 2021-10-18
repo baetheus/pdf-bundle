@@ -243,7 +243,7 @@ function IndexPage() {
 
   return (
     <main
-      style="display: flex; flex-direction: column; gap: 10px; width: 100%; max-width: 500px; min-width: 320px;"
+      style="display: flex; flex-direction: column; gap: 10px; width: 100%; max-width: 500px; min-width: 280px;"
     >
       <header>
         <h1>Pdf Bundler</h1>
