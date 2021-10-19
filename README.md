@@ -1,4 +1,4 @@
-# [PDF Bundle](pdf-bundle.nll.sh)
+# [PDF Bundle](https://pdf-bundle.nll.sh)
 
 In one of my college courses the assignments must be submitted as a single
 document with a series of pictures and their related captions. Often the
